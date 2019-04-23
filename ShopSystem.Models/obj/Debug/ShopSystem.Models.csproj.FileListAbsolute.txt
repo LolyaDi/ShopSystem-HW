@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\bin\Debug\ShopSystem.Models.dll
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\bin\Debug\ShopSystem.Models.pdb
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\obj\Debug\ShopSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\obj\Debug\ShopSystem.Models.dll
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\obj\Debug\ShopSystem.Models.pdb
+C:\Users\ww\source\repos\ShopSystem\ShopSystem.Models\obj\Debug\ShopSystem.Models.csprojAssemblyReference.cache
